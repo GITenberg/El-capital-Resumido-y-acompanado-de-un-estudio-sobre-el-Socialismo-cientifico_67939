@@ -1,5 +1,8 @@
 _repo: El-capital-Resumido-y-acompanado-de-un-estudio-sobre-el-Socialismo-cientifico_67939
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67939-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Marx, Carlos
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '38002'
     url: http://www.gutenberg.org/2009/agents/38002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67939#El-capital-Resumido-y-acompanado-de-un-estudio-sobre-el-Socialismo-cientifico
 gutenberg_issued: '2022-04-27'
 identifiers:
   gutenberg: '67939'
